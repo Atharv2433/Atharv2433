@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atharv Joundal</h1>
 <h3 align="center">A passionate frontend developer and competitive from India</h3>
 
-- 🔭 I’m currently working on **One click Print**
+- 🔭 I’m currently working on **AI Interviewer**
 
-- 🌱 I’m currently learning **ReactJS,NodeJS,MongoDB,Spring Boot**
+- 🌱 I’m currently learning **ReactJS,Spring Boot**
 
 - 📫 How to reach me **atharvjoundal@gmail.com**
 
