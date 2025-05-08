@@ -7,11 +7,10 @@
 
 - 🔭 I’m currently working on **Preventing DDoS Attaks**
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **GoLang**
 
 - 📫 How to reach me **atharvjoundal@gmail.com**
 
-- 📄 Know about my experiences [Artificial Intelligence and Machine Learning Intern at Domain Organisation](Artificial Intelligence and Machine Learning Intern at Domain Organisation)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
